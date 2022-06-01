@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
     
 
   },
-  /*Container Column */
+ 
 coulumBox:{
     width: 150,
     height: 250,
